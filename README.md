@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README for Translation App: English to French with Beam Search Decoding</title>
 </head>
 <body>
 
@@ -19,7 +18,7 @@
 </ul>
 
 <h2 id="installation">Installation</h2>
-<p>To run this application, you need to have Python installed on your machine. The recommended version is Python 3.8 or higher.</p>
+<p>To run this application, you must install Python on your machine. The recommended version is Python 3.8 or higher.</p>
 
 <h3>Step 1: Clone the Repository</h3>
 <p>First, clone this repository to your local machine using:</p>
@@ -55,11 +54,8 @@ torch
     <li>The application will display the translated text in French, using beam search decoding for improved accuracy.</li>
 </ol>
 
-<h2 id="credits">Credits</h2>
-<p>This project was created as part of a task assigned by NullClass. Special thanks to the NullClass organization for the opportunity to work on this project.</p>
-
 <h2 id="license">License</h2>
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+<p>This project was created as part of a task assigned by NullClass. Special thanks to the NullClass organization for the opportunity to work on this project.</p>
 
 </body>
 </html>
